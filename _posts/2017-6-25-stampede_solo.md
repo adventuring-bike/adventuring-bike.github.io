@@ -3,7 +3,7 @@ layout: post
 title: Soloing the Oregon Stampede
 ---
 
-Route: 
+Route: https://ridewithgps.com/routes/24512156
 
 Weather: Completely clear skies, very hot and dry.
 
